@@ -1,0 +1,13 @@
+{
+  "transactions": [
+    {
+      "rpc": "http://rpc.ctf.so:8545/KKkyQSAKLvypjQkXWKwIKAPI/main"
+    },
+    {
+      "rpc": "http://rpc.ctf.so:8545/KKkyQSAKLvypjQkXWKwIKAPI/main"
+    },
+    {
+      "rpc": "http://rpc.ctf.so:8545/KKkyQSAKLvypjQkXWKwIKAPI/main"
+    }
+  ]
+}

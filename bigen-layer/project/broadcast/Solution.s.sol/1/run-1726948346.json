@@ -1,0 +1,49 @@
+{
+  "transactions": [
+    {
+      "hash": "0xf4be63833a4c6829e2f4584f1be558d2e9be719ca3dbd991b8235523c816172b",
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x71556c38f44e17ec21f355bd18416155000bf5a6",
+      "function": null,
+      "arguments": null,
+      "transaction": {
+        "from": "0x99de1b4826e4f5f8e7c02118e817125b99072640",
+        "to": "0x71556c38f44e17ec21f355bd18416155000bf5a6",
+        "gas": "0x714d",
+        "value": "0x1",
+        "input": "0x",
+        "nonce": "0x1",
+        "chainId": "0x1"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [
+    {
+      "status": "0x1",
+      "cumulativeGasUsed": "0x5208",
+      "logs": [],
+      "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+      "type": "0x2",
+      "transactionHash": "0xf4be63833a4c6829e2f4584f1be558d2e9be719ca3dbd991b8235523c816172b",
+      "transactionIndex": "0x0",
+      "blockHash": "0x14a8616f6c99677b86f18c51c747d18ce5b706b63a82a250a3c6682474babc30",
+      "blockNumber": "0x4",
+      "gasUsed": "0x5208",
+      "effectiveGasPrice": "0x286fe8a9",
+      "blobGasPrice": "0x1",
+      "from": "0x99de1b4826e4f5f8e7c02118e817125b99072640",
+      "to": "0x71556c38f44e17ec21f355bd18416155000bf5a6",
+      "contractAddress": null,
+      "root": "0xf7b7463655ce7577871aa6c449a67784d3aef213ffc714edd296e5c581222397"
+    }
+  ],
+  "libraries": [],
+  "pending": [],
+  "returns": {},
+  "timestamp": 1726948346,
+  "chain": 1,
+  "commit": null
+}
